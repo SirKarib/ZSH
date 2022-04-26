@@ -1,2 +1,2 @@
 # ZSH_config
-My config ZSH
+My ZSH config
